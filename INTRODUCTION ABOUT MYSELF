@@ -1,0 +1,8 @@
+#include <stdio.h>
+  int main() {
+    printf("MY NAME IS :G.LOKESH KUMAR.\n");
+    printf("I'm 17 years old.\n");
+    printf("I'm a first year B.tech student.\n");
+    printf("I'm studying in Vignan Institute Of Technology.");
+    return 0;
+}
