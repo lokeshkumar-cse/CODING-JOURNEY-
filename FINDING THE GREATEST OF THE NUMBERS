@@ -1,0 +1,14 @@
+#include<stdio.h>
+  int main() {
+    int n1=6 , n2=8 , n3=4 ;
+    if(n1>=n2 && n1>=n3) {
+      printf("%d is the greatest among these three numbers.",n1);
+    }
+    else if(n2>=n1 && n2>=n3) {
+      printf("%d is the greatest among these three numbers.",n2);
+    }
+    else {
+      printf("%d is the greatest among these three numbers.",n3);
+    } 
+    return 0;
+}
