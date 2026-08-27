@@ -1,0 +1,6 @@
+#include<stdio.h>
+  int main() {
+    int n1=76 , n2=24 , sum;
+    printf("sum = %d",n1+n2);
+    return 0;
+}
